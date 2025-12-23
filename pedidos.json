@@ -1,5 +1,5 @@
 [
   { "id": "001", "idcliente": "001", "idproducto": "002", "cantidad": 9, "total": 200 },
-  { "id": "002", "idcliente": "003", "idproducto": "001", "cantidad": 2, "total": 80 },
+  { "id": "002", "idcliente": "003", "idproducto": "001", "cantidad": 2, "total": 180 },
   { "id": "003", "idcliente": "002", "idproducto": "004", "cantidad": 5, "total": 150 }
 ]
